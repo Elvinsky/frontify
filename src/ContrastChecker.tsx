@@ -40,7 +40,7 @@ export const ContrastChecker: FC = () => {
                 <div className="w-3/4 p-2 rounded-lg" style={smallTextStyle}>
                     Small Text
                 </div>
-                <div className="w-3/4 p-2 rounded-lg" style={bigTextStyle}>
+                <div className="w-3/4 p-2 rounded-lg text-3xl" style={bigTextStyle}>
                     Big Text
                 </div>
                 <input className="w-3/4 p-2 rounded-lg" type="text" value="Input Text" style={inputPlaceholderStyle} />
